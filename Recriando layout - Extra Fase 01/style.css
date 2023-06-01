@@ -16,11 +16,12 @@ body {
 .container {
     width: 626px;
     height: 486px;
-    margin: 27px auto 0;
+    margin: 64px auto 0;
 }
 
 .container img {
     width: 350px;
+    margin-bottom: 32px;
 }
 
 .container h1 {
